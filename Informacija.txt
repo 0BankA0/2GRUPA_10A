@@ -1,15 +1,16 @@
 Problema:
+
 Ka noorganizet visu, lai pasakums butu izdevis?
 
-
-
 Iesaistitas personas:
+
+
 Direktors (organizator)
 Klase (klase kura organizes to)
 Absolventi (skoleni kuriem bus absolventu salidojums)
 
-
-
 Jautajumi problemas risinasanai:
+
+
 Kas vajag pasakuma izveide?
 Ka var palidzet paskuma izveide?
