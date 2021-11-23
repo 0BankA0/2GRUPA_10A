@@ -5,9 +5,9 @@ Ka noorganizet visu, lai pasakums butu izdevis?
 Iesaistitas personas:
 
 
-Direktors (organizator)
-Klase (klase kura organizes to)
-Absolventi (skoleni kuriem bus absolventu salidojums)
+Direktors (cilveks kurš uzdevusi organizet pasakumu)
+Klase (klase kura izdaris visu pasakumam)
+Absolventi (skoleni kuriem bus pasakums)
 
 Jautajumi problemas risinasanai:
 
