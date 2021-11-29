@@ -12,5 +12,5 @@ Absolventi (skoleni kuriem bus pasakums)
 Jautajumi problemas risinasanai:
 
 
-Kas vajag pasakuma izveide?
+Kas vajadzigs pasakuma izveide?
 Ka var palidzet paskuma izveide?
